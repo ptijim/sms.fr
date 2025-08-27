@@ -1,0 +1,9 @@
+# Exported from Render on 2025-08-27T22:39:42Z
+services:
+- type: keyvalue
+  name: JM
+  plan: free
+  region: frankfurt
+  maxmemoryPolicy: allkeys-lru
+  ipAllowList: []
+version: "1"
